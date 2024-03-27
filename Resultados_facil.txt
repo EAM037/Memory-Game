@@ -1,0 +1,6 @@
+Resultados:
+
+['Emmanuel', 90]
+['Eam', 30]
+['Emmanuel', 0]
+['Alex', 0]
